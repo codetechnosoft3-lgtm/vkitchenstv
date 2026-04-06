@@ -1,6 +1,87 @@
 [
+ {
+    "id": "41",
+    "name": "Prestige IRIS ECO 1200 W Induction Cooktop with automatic voltage regulator |Indian Menu option|Power Saver|Timer with User Pre-Set| Black       ",
+    "mainimg": "https://m.media-amazon.com/images/I/61Vu80YcolL._SX679_.jpg",
+    "dis": "93%",
+    "total": "₹2,999",
+    "disprice": "₹419",
+    "slide": [
+      "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81uk2K736TL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81J+A2goM+L._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81l60lHvBYL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81OhlSqgLjL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81unm0d-vXL._SL1500_.jpg"
+    ],
+    "trending": true,
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Excellent Pressure Handi",
+        "text": "Heats evenly and cooks food perfectly. Very happy with this purchase.",
+        "buyerName": "Aditya Sharma",
+        "verified": true,
+        "location": "Bangalore",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
+        ]
+      },
+      {
+        "rating": 4,
+        "title": "Highly Recommended",
+        "text": "Strong and durable. Very convenient for daily cooking.",
+        "buyerName": "Mihir Kapoor",
+        "verified": true,
+        "location": "Chennai",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Very Efficient",
+        "text": "cooking perfectly. Saves time and energy.",
+        "buyerName": "Riddhi Deshmukh",
+        "verified": true,
+        "location": "Pune",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Sturdy & Reliable",
+        "text": "High-quality build and easy to clean. Great addition to my kitchen.",
+        "buyerName": "Ananya Singh",
+        "verified": true,
+        "location": "Amritsar",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
+        ]
+      },
+      {
+        "rating": 4,
+        "title": "Best Buy",
+        "text": "Affordable and efficient. Works exactly as described.",
+        "buyerName": "Subham Rathi",
+        "verified": true,
+        "location": "Jamnagar",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
+        ]
+      }
+    ]
+  },
+  
  
-  {
+ 
+ {
     "id": "1",
     "name": "Prestige 5 Litres Svachh Nakshatra Plus Induction Base Inner Lid Hard Anodised Pressure Handi | Black",
     "mainimg": "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg",
